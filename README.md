@@ -5,7 +5,7 @@
   <br>
 </div>
 
-<div align=center><h1>Front</h1></div>
+<div align=center><h1>FrontEnd</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
@@ -15,7 +15,7 @@
   <br>
 </div>
 
-<div align=center><h1>Back</h1></div>
+<div align=center><h1>BackEnd</h1></div>
  <div align=center> 
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> 
   <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white"> 
@@ -23,3 +23,10 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
   <br>
  </div>
+
+<div align=center><h1>DevOps</h1></div>
+<div align=center> 
+  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <br>
+</div>

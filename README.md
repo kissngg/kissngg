@@ -1,18 +1,18 @@
-<div align=center><h1>Blockchain</h1></div>
+<div align=center><h3>Blockchain</h3></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"> 
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
   <br>
 </div>
 
-<div align=center><h1>DevOps</h1></div>
+<div align=center><h3>DevOps</h3></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <br>
 </div>
 
-<div align=center><h1>FrontEnd</h1></div>
+<div align=center><h3>FrontEnd</h3></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"> 
@@ -21,7 +21,7 @@
   <br>
 </div>
 
-<div align=center><h1>BackEnd</h1></div>
+<div align=center><h3>BackEnd</h3></div>
  <div align=center> 
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> 
   <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white"> 

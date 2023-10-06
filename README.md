@@ -1,4 +1,4 @@
-<div align=center><h1>Full-Stack Web3 Dev</h1>
+<div align=center><h1>Full Stack Web3 Dev</h1>
 
 <div align=center><h3>Web3</h3></div>
 <div align=center> 

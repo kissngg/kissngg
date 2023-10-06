@@ -37,6 +37,7 @@
  <div align=center> 
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> 
+  <img src="https://img.shields.io/badge/vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white"> 
   <br>
  </div>
 </div>

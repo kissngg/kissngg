@@ -1,4 +1,4 @@
-<div align=center><h3>Full-Stack Web3 Dev</h3></div>
+<div align=center><h1>Full-Stack Web3 Dev</h1>
 
 <div align=center><h3>Blockchain</h3></div>
 <div align=center> 
@@ -31,3 +31,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
   <br>
  </div>
+</div>

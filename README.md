@@ -2,8 +2,8 @@
 
 <div align=center> 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=chakraui&logoColor=white">
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=chakraui&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
   <br>
 

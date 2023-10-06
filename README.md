@@ -1,4 +1,4 @@
-### Full-Stack Web3 Dev
+<div align=center><h3>Full-Stack Web3 Dev</h3></div>
 
 <div align=center><h3>Blockchain</h3></div>
 <div align=center> 

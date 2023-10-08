@@ -33,14 +33,13 @@
   <img src="https://img.shields.io/badge/vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white"> 
  </div>
 
-<div align=center><h3>Experience</h3></div>
-
-Security Engineer: 3 years <br />
-Blockchain Development/Planning: 3 years <br />
-Edu-solution Development/Planning: 2 years <br />
-Experience as Blockchain CEO: 2 years <br />
-
+<div align=center>
+  <h3>Experience</h3>
+  <ul>
+    <li>Security Engineer: 3 years</li>
+    <li>Blockchain Development/Planning: 3 years</li>
+    <li>Experience as Blockchain CEO: 2 years</li>
+    <li>Edu-solution Development/Planning: 2 years</li>
+  </ul>
 </div>
-
-
 </div>

@@ -35,10 +35,10 @@
 
 <div align=center><h3>Experience</h3></div>
 
-Security Engineer: 3 years
-Blockchain Development/Planning: 3 years
-Edu-solution Development/Planning: 2 years
-Experience as Blockchain CEO: 2 years
+Security Engineer: 3 years <br />
+Blockchain Development/Planning: 3 years <br />
+Edu-solution Development/Planning: 2 years <br />
+Experience as Blockchain CEO: 2 years <br />
 
 </div>
 

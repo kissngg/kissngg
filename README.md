@@ -32,4 +32,15 @@
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> 
   <img src="https://img.shields.io/badge/vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white"> 
  </div>
+
+<div align=center><h3>Experience</h3></div>
+
+- Security Engineer: 3 years
+- Blockchain Development/Planning: 3 years
+- Edu-solution Development/Planning: 2 years
+- Experience as Blockchain CEO: 2 years
+
+</div>
+
+
 </div>

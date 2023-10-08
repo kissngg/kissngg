@@ -35,10 +35,10 @@
 
 <div align=center>
   <h3>Experience</h3>
-    <h4>Security Engineer: 3 years</h4><br />
-    <h4>Blockchain Development/Planning: 3 years</h4> <br />
-    <h4>Experience as Blockchain CEO: 2 years</h4> <br />
-    <h4>Edu-solution Development/Planning: 2 years</h4> <br />
+    <p>Security Engineer: 3 years</p><br />
+    <p>Blockchain Development/Planning: 3 years</p> <br />
+    <p>Experience as Blockchain CEO: 2 years</p> <br />
+    <p>Edu-solution Development/Planning: 2 years</p> <br />
 </div>
 
 
